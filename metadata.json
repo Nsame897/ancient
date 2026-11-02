@@ -1,0 +1,7 @@
+{
+  "name": "PulsePresence - Presence & Online Status Detection Studio",
+  "description": "An interactive real-time presence detection and connection protocol workbench demonstrating how client heartbeat, socket keep-alive, and visibility APIs detect online status independently of notification settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
